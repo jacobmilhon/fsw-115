@@ -1,0 +1,57 @@
+{
+	"appetizers": [{
+			"name": "Roll-Ups",
+			"ingredients": ["Turkey", "Swiss Cheese", "Pickle Spear"],
+			"description": "Thinly sliced turkey wrapped around a piece of swiss cheese and pickle spear."
+		},
+		{
+			"name": "J-Pops",
+			"ingredients": ["jalapeno", "Cream Cheese", "Bacon"],
+			"description": "Jalapeno stuffed with cream cheese that has been wrapped in bacon."
+		}
+	],
+	"cold sandwiches": [{
+			"name": "Classic Turkey",
+			"ingredients": ["Turkey", "Wheat Bread", "Swiss Cheese", "Mustard"],
+			"description": "Deli sliced turkey on thick slices of wheat bread with swiss cheese and mustard."
+		},
+		{
+			"name": "Classic Ham",
+			"ingredients": ["ham", "Wheat Bread", "Cheddar Cheese", "Mustard"],
+			"description": "Deli sliced ham on thick slices of wheat bread with cheddar cheese and mustard."
+		}
+	],
+	"hot sandwiches": [{
+			"name": "Hot Ham & Cheese",
+			"ingredients": ["Ham", "Wheat Bread", "Cheddar Cheese"],
+			"description": "A grilled sandwich with deli sliced ham on thick slices of wheat bread with cheddar cheese"
+		},
+		{
+			"name": "Grilled Cheese",
+			"ingredients": ["Wheat Bread", "Cheddar Cheese", "Mozzarella Cheese"],
+			"description": "A grilled sandwich made from wheat bread and both cheddar and mozzarella cheese."
+		}
+	],
+	"desserts": [{
+			"name": "Cherry Cheese Cake",
+			"ingredients": ["Cheese Cake", "Cherries", "Chocolate Syrup"],
+			"description": "Small slice of cheese cake topped with cherries and chocolate syrup."
+		},
+		{
+			"name": "Oatmeal Raisin Cookies",
+			"ingredients": ["Oatmeal", "Raisins"],
+			"description": "A large cookie made from oatmeal with raisins."
+		}
+	],
+	"drinks": [{
+			"name": "Soda",
+			"ingredients": ["Can of Coke", "Can of Dr. Pepper", "Can of Spirte"],
+			"description": "Your choice of either a can of Coke, Dr. Pepper, or Sprite."
+		},
+		{
+			"name": "Juice",
+			"ingredients": ["Grape", "Orange", "Apple"],
+			"description": "Your choice of either a glass of Grape juice, Orange Juice, or Apple juice."
+		}
+	]
+}
